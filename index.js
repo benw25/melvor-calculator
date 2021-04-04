@@ -63,7 +63,7 @@ const calcInputNumberNeeded = (
 
 const DESIRED = 2500 - 801;
 const PRESERVE_CHANCE = 20;
-const DOUBLE_CHANCE = 20;
+const DOUBLE_CHANCE = 25;
 
 const inputNumber = calcInputNumberNeeded(
   DESIRED,

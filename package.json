@@ -19,5 +19,8 @@
   "homepage": "https://github.com/benw25/melvor-calculator#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.23.1"
   }
 }
