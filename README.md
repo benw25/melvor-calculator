@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/benw25/melvor-calculator/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-### Tes Markdown
+### Test Markdown
 
 ```markdown
 Syntax highlighted code block
