@@ -1,4 +1,4 @@
-const _ = require("lodash");
+const _ = require('lodash');
 
 const NUM_TIMES_TO_CALCULATE_CONSTANT = 1000;
 const PRECISION = 5;
@@ -61,8 +61,8 @@ const calcInputNumberNeeded = (
   return _.floor(unformattedExpectedInputNumber);
 };
 
-const DESIRED = 2500 - 801;
-const PRESERVE_CHANCE = 20;
+const DESIRED = 2500 - 163;
+const PRESERVE_CHANCE = 30;
 const DOUBLE_CHANCE = 25;
 
 const inputNumber = calcInputNumberNeeded(
