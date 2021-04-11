@@ -21,7 +21,8 @@
     "big-integer": "^1.6.48",
     "esm": "^3.2.25",
     "lodash": "^4.17.21",
-    "mathjs": "^9.3.1"
+    "mathjs": "^9.3.1",
+    "prompt": "^1.1.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.13.15",
