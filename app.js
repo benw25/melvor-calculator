@@ -9,7 +9,7 @@ import {
   logInputNumberNeeded,
 } from './lib';
 
-// logInputNumberNeeded(2338, 30, 25);
+logInputNumberNeeded(4000, 6, 15);
 
 calcAorpheatWC();
 
