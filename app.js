@@ -1,6 +1,7 @@
 import _ from 'lodash';
 
 import {
+  calcARSelectFish,
   calcAllAorpheats,
   logAllAorpheats,
   calcAorpheatMining,
@@ -9,10 +10,12 @@ import {
   logInputNumberNeeded,
 } from './lib';
 
-logInputNumberNeeded(10000, 60, 10);
+calcARSelectFish();
 
-calcAorpheatWC();
+logInputNumberNeeded(7500, 50, 10);
 
-calcAorpheatMining();
+// calcAorpheatWC();
+
+// calcAorpheatMining();
 
 // promptAorpheat();
