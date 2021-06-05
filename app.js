@@ -14,7 +14,7 @@ calcARSelectFish();
 
 logInputNumberNeeded(7500, 50, 10);
 
-// calcAorpheatWC();
+calcAorpheatWC();
 
 // calcAorpheatMining();
 
